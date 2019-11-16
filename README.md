@@ -3,13 +3,13 @@ Initial configuration for a project using Code Igniter 4 and Docker
 
 ## What the repository has
 
-* Code Igniter 3 - v4.0.0-rc.3  
-* Docker start file
-* PHP
+* Code Igniter 4 - v4.0.0-rc.3  
+* Docker-compose start file
+* PHP 7
 * Nginx
 * PhpMyAdmin
 * MySQL
-* Reverse Proxy
+* Nginx Reverse Proxy
 
 ## Getting start
 
