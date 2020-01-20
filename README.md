@@ -48,7 +48,7 @@ http://localhost:9191
 To access a container shell, type in your terminal
 
 ```html
-$ sudo docker exec -ti <container_name> /bin/sh/
+$ sudo docker exec -ti <container_id> /bin/sh/
 ```
 
 
