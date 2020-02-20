@@ -1,4 +1,4 @@
-# codeigniter4-docker-compose
+# Code Igniter 4, Docker Compose
 Initial configuration for a project using Code Igniter 4, MySQL, Nginx and Docker
 
 ## What the repository has
